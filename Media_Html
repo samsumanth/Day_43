@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo-1</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="media">
+  <img class="media-object" src="/assets/card5.jpg" alt="Sample photo">
+  <div class="media-body">
+    <h3 class="media-heading">Mukesh Ambani</h3>
+    <p>Mukesh Dhirubhai Ambani is an Indian billionaire businessman, and the chairman, managing director, and largest shareholder of Reliance Industries Ltd., a Fortune Global 500 company and India's most.</p>
+
+    <div class="media">
+      <img class="media-object" src="/assets/card4.jpg" alt="Sample photo">
+      <div class="media-body">
+        <h3 class="media-heading">Steve Jobs</h3>
+        <p>Steven Paul Jobs was an American business magnate, industrial designer, investor, and media proprietor.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>
